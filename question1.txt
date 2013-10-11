@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words.
+You use it when you want to get a copy of an existing repository.
