@@ -1,1 +1,1 @@
-Explain what a branch is in your own words.
+A branch is an 'alternate' timeline in your git, it will record changes in that branch only, and will not alter the original branch, unless you merge them at some point.
