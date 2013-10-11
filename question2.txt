@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+You 'push 'upstream' a project when you have made commits that you want to share with the rest.
